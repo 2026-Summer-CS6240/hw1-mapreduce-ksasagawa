@@ -9,7 +9,7 @@ job.name=wc.WordCount
 local.input=input
 local.output=output
 # Pseudo-Cluster Execution
-hdfs.user.name=joe
+hdfs.user.name=kyle
 hdfs.input=input
 hdfs.output=output
 # AWS EMR Execution
