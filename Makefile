@@ -15,7 +15,7 @@ hdfs.output=output
 # AWS EMR Execution
 aws.emr.release=emr-6.10.0
 aws.region=us-east-1
-aws.bucket.name=cs6240-demo-bucket
+aws.bucket.name=kyle-sasagawa-cs6240-hw1
 aws.subnet.id=subnet-6356553a
 aws.input=input
 aws.output=output
